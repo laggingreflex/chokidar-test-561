@@ -1,0 +1,13 @@
+{
+  "name": "chokidar-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "watch.js",
+  "dependencies": {
+    "chokidar": "^1.6.1"
+  },
+  "scripts": {
+    "test": "node watch"
+  },
+  "repository": "laggingreflex/chokidar-test-561"
+}
